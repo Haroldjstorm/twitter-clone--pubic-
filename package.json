@@ -20,6 +20,6 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/Haroldjstorm/twitter_clone#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
